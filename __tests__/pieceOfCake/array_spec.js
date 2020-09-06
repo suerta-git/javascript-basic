@@ -15,7 +15,7 @@ describe('for array', () => {
 
     // <--start
     // Please write one line of code to push some elements in the array to pass the test
-
+    array.push(6, 7, 8);
     // --end->
 
     expect(array).toEqual([1, 2, 3, 4, 5, 6, 7, 8]);
