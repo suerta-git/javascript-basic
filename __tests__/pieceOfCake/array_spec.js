@@ -4,7 +4,7 @@ describe('for array', () => {
 
     // <--start
     // Please write down the correct result. You should write the result directly.
-    const expected = undefined;
+    const expected = 3;
     // --end->
 
     expect(array[2]).toEqual(expected);
