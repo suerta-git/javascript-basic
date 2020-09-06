@@ -27,7 +27,7 @@ describe('for array', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expected = undefined;
+    const expected = [9, 1, 2, 3, 4, 5, 10];
     // --end->
 
     expect(newArray).toEqual(expected);
