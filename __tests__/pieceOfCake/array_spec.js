@@ -69,7 +69,7 @@ describe('for array', () => {
       'Unit 2 for element at index 1',
       'Unit 3 for element at index 2',
       'Unit 4 for element at index 3',
-      'Unit 5 for element at index 4'
+      'Unit 5 for element at index 4',
     ];
     // --end->
 
