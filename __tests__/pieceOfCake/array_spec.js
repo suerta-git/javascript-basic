@@ -52,7 +52,7 @@ describe('for array', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expected = undefined;
+    const expected = [2, 4];
     // --end->
 
     expect(filtered).toEqual(expected);
