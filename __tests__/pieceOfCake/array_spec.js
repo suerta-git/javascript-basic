@@ -82,7 +82,7 @@ describe('for array', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expected = undefined;
+    const expected = 15;
     // --end->
 
     expect(reduced).toEqual(expected);
