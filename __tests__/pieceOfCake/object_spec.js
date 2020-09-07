@@ -111,7 +111,7 @@ describe('for object', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expected = undefined;
+    const expected = 'The white rabbit says Hello.';
     // --end->
 
     expect(rabbit.speak('Hello')).toEqual(expected);
