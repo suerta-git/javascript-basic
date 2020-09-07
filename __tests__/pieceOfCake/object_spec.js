@@ -28,7 +28,7 @@ describe('for object', () => {
 
     // <--start
     // Please write a line of code to remove the `name` property.
-
+    delete person.name;
     // --end->
 
     expect(person.name).toBeUndefined();
