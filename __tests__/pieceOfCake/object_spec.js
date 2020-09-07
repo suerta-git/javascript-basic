@@ -300,14 +300,14 @@ describe('for object', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expectedFahrenheit = undefined;
+    const expectedFahrenheit = 22 * 1.8 + 32;
     // --end->
 
     expect(new Temperature(22).fahrenheit).toEqual(expectedFahrenheit);
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expectedCelsius = undefined;
+    const expectedCelsius = (86 - 32) / 1.8;
     // --end->
 
     expect(Temperature.fromFahrenheit(86).celsius).toEqual(expectedCelsius);
