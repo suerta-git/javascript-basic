@@ -15,7 +15,7 @@ describe('for numbers', () => {
 
     // <--start
     // Please write an expression determine if `notNumber` is NaN.
-    const isNan = undefined;
+    const isNan = Number.isNaN(notNumber);
     // --end->
 
     expect(isNan).toBeTruthy();
