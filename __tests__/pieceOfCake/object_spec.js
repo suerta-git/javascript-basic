@@ -142,7 +142,7 @@ describe('for object', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expected = undefined;
+    const expected = [0, 2, 3];
     // --end->
 
     expect(actual).toEqual(expected);
