@@ -4,7 +4,7 @@ describe('for numbers', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expected = undefined;
+    const expected = 0.75;
     // --end->
 
     expect(dividingResult).toEqual(expected);
