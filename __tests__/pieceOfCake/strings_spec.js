@@ -53,7 +53,7 @@ describe('for strings', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expected = undefined;
+    const expected = 'coconuts';
     // --end->
 
     expect(string.trim()).toEqual(expected);
