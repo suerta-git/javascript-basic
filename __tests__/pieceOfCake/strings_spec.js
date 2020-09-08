@@ -31,7 +31,7 @@ describe('for strings', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expected = undefined;
+    const expected = 'nut';
     // --end->
 
     expect(string.slice(4, 7)).toEqual(expected);
